@@ -1,6 +1,6 @@
 <h1>Diabetes Prediction Using Machine Learning</h1>
 
-**Techniques Used**
+<h2>Techniques Used</h2>
 
 Data Cleaning
 
@@ -22,7 +22,7 @@ Naivye Bayes
 
 Gradient Boosting
 
-**Model Evaluation Methods Used**
+<h2>Model Evaluation Methods Used<h2>
 
 Accuracy Score
 
@@ -32,7 +32,7 @@ Cross Validation
 
 Confusion Matrix
 
-**Packages and Tools Required:**
+<h2>Packages and Tools Required:</h2>
 
 Pandas 
 
@@ -44,7 +44,7 @@ Scikit Learn
 
 Jupyter Notebook
 
-****Package Installation****
+<h2>Package Installation</h2>
 
 pip install numpy
 
